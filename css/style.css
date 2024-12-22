@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+section {
+  max-width: 350px;
+  height: 200px;
+  width: 100%;
+  border: 5px solid green;
+  margin-left: 40%;
+  margin-top: 5%;
+}
+.personal {
+  margin-left: 20px;
+  margin-top: 25px;
+}
+.submit {
+  max-width: 200px;
+  margin: 30px 20px;
+}
+.cheack {
+  margin-left: 10px;
+}
